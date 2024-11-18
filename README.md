@@ -53,7 +53,7 @@ To better understand our code structure and how the application functions, you c
 
 1. Clone the repository:
    
-  (https://github.com/sir-zech/Bookadoctor-using-mern.git)
+   (https://github.com/Srii1012/booking-Doctors-appointment-Using-MERN.git)
    
 
 2. Install dependencies for both backend and frontend:
