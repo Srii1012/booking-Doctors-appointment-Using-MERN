@@ -103,10 +103,10 @@ This project was developed as part of our academic program. Here are our team me
 
 TEAM ID : NM2024TMID06548
 
+- **Srivatsan C.B**
 - **Naveen B**
 - **Mouli Monish S**
 - **Nimalan R**
-- **Srivatsan C.B**
 - **Selvam R**
 
 Each team member contributed to various parts of the project, from backend development to UI design, making this project a team effort.
