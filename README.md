@@ -103,7 +103,7 @@ This project was developed as part of our academic program. Here are our team me
 
 TEAM ID : NM2024TMID06548
 
-- **Srivatsan C.B**
+- **Srivathsan C.B**
 - **Naveen B**
 - **Mouli Monish S**
 - **Nimalan R**
