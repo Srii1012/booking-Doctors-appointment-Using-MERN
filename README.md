@@ -17,8 +17,6 @@ Book a Doctor is a MERN (MongoDB, Express, React, Node.js) Stack application for
 
 This Doctor Appointment Booking System is designed to streamline the appointment scheduling process for patients and doctors. The application provides an intuitive user interface, with real-time updates on doctor availability, and an organized booking process.
 
-### Team ID
-Our team ID for this project is **NM2024TMID06548**.
 
 
 ## Code Structure & Demo Videos
@@ -101,7 +99,6 @@ The app should now be running at `http://localhost:3000` (frontend) and `Server 
 
 This project was developed as part of our academic program. Here are our team members:
 
-TEAM ID : NM2024TMID06548
 
 - **Srivathsan C.B**
 - **Naveen B**
